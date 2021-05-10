@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CreditCard
+comment0.text=\n\ Credit\ Card\ class\n\n\ @author\ Connie\ Xu\n\ ITP\ 265,\ Spring\ 2021,\ Coffee\ Section\n\ Assignment\ 03\n\ Email\:\ caxu@usc.edu\n
+comment1.params=name\ cardNumber\ expirationDate\ cvv\ balance
+comment1.target=CreditCard(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double)
+comment1.text=\n\ Full\ constructor\ for\ objects\ of\ class\ CreditCard\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ accessor\ for\ name\n
+comment3.params=
+comment3.target=double\ getBalance()
+comment3.text=\n\ accessor\ for\ name\n
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment4.text=\n\ mutator\ for\ name\n
+comment5.params=balance
+comment5.target=void\ setBalance(double)
+comment5.text=\n\ mutator\ for\ balance\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ toString\ convert\ method\ in\ readable\ format\n
+numComments=7

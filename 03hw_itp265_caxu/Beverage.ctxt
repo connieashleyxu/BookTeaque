@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Beverage
+comment0.text=\n\ Beverage\ class\n\n\ @author\ Connie\ Xu\n\ ITP\ 265,\ Spring\ 2021,\ Coffee\ Section\n\ Assignment\ 03\n\ Email\:\ caxu@usc.edu\n
+comment1.params=name\ price
+comment1.target=Beverage(java.lang.String,\ double)
+comment1.text=\n\ constructor\ that\ takes\ in\ name\ and\ price\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ accessor\ for\ name\n
+comment3.params=
+comment3.target=double\ getPrice()
+comment3.text=\n\ accessor\ for\ price\n
+comment4.params=beverageName
+comment4.target=void\ setName(java.lang.String)
+comment4.text=\n\ mutator\ for\ name\n
+comment5.params=beveragePrice
+comment5.target=void\ setPrice(double)
+comment5.text=\n\ mutator\ for\ price\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ toString\ method\ to\ return\ name\ and\ price\n
+comment7.params=other
+comment7.target=boolean\ equals(Beverage)
+comment7.text=\n\ equals\ method\ to\ check\ if\ two\ beverages\ are\ the\ same\n
+numComments=8
